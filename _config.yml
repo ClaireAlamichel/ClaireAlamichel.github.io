@@ -13,10 +13,10 @@ author: Claire Alamichel
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Research: "research"
-  Teaching: "teaching"
+#navbar-links:
+ # About Me: "aboutme"
+ # Research: "research"
+ # Teaching: "teaching"
 
 # --- Logo --- #
 
