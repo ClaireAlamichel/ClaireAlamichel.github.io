@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Claire Alamichel
+subtitle: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<br>
+I am a postdoctoral researcher at [INRIA - Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes) in the team of Hélène Hivert. I am working on numerical methods for evolution in spatially structured population models.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I did my thesis at [LaMME](http://www.math-evry.cnrs.fr/welcome) at the Université d'Évry Paris-Saclay and at [DISMA](https://www.disma.polito.it/) at the Politecnico di Torino under the supervision of Nicolas Meunier and Luigi Preziosi. My thesis work focuses on the modelling of cell motility and the influence of the cell nucleus on it. My thesis manuscript is available [here](https://theses.hal.science/tel-04755731). My thesis was in part of a joint international thesis and the defence took place on 20 September 2024.
 
-What else do you need?
+Before, I did [Mathématiques pour les Sciences du Vivant](https://sites.google.com/view/m2-msv/accueil) at Université Paris-Saclay in 2020.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br>
